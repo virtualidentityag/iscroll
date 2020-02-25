@@ -30,7 +30,6 @@
   "ignore": [
     "**/.*",
     "build/*",
-    "dist/*",
     "demos/*",
     "*.md",
     "*.tmp",
